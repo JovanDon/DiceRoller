@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="dice_roll">dice roll</string>
+    <string name="dice2">DIce 2</string>
+    <string name="dice1">Dice 1</string>
+    <string name="roll_button">Roll button</string>
+</resources>
